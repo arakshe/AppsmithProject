@@ -1,0 +1,45 @@
+{
+  "pages": [
+    {
+      "id": "Toy",
+      "isDefault": true
+    },
+    {
+      "id": "Gift Wrapping",
+      "isDefault": false
+    },
+    {
+      "id": "Orders",
+      "isDefault": false
+    },
+    {
+      "id": "Customer",
+      "isDefault": false
+    },
+    {
+      "id": "Feedback",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "color": "#C7F3F0",
+  "icon": "arrow-left",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
